@@ -1,5 +1,5 @@
-# k-means
-Implementation of K Means Clustering using Python
+# ML-KMeans
+Implementation of K Means Clustering Machine Learning Algorithm using Python
 
 # About
 K-means clustering is one of the most widely used unsupervised machine learning algorithms that forms clusters of data based on the similarity between data instances. For this particular algorithm to work, the number of clusters has to be defined beforehand. The K in the K-means refers to the number of clusters.
